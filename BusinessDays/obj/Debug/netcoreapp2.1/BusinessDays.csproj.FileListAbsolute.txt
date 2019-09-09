@@ -1,0 +1,11 @@
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\bin\Debug\netcoreapp2.1\BusinessDays.deps.json
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\bin\Debug\netcoreapp2.1\BusinessDays.runtimeconfig.json
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\bin\Debug\netcoreapp2.1\BusinessDays.runtimeconfig.dev.json
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\bin\Debug\netcoreapp2.1\BusinessDays.dll
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\bin\Debug\netcoreapp2.1\BusinessDays.pdb
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\obj\Debug\netcoreapp2.1\BusinessDays.csprojAssemblyReference.cache
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\obj\Debug\netcoreapp2.1\BusinessDays.csproj.CoreCompileInputs.cache
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\obj\Debug\netcoreapp2.1\BusinessDays.AssemblyInfoInputs.cache
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\obj\Debug\netcoreapp2.1\BusinessDays.AssemblyInfo.cs
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\obj\Debug\netcoreapp2.1\BusinessDays.dll
+C:\Users\maram\source\repos\BusinessDays\BusinessDays\obj\Debug\netcoreapp2.1\BusinessDays.pdb
